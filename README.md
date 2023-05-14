@@ -1,6 +1,8 @@
 ### Hi👋,I'm Kajal Pandey
 📫 How to reach me kajalkp596@gmail.com
+
  🌱 I’m from Gurugram, Haryana, India🌍
+ 
  🌱 I’m currently learning ...
  
   . MongoDB, Express.js, React.js, Node.js, Aspiring Full-stack Web Developer
