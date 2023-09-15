@@ -1,4 +1,4 @@
-![logo](https://www.bigscal.com/wp-content/uploads/2022/09/Features-of-Mern-stack-development-services-You-Should-Know.png)
+![logo](https://static.javatpoint.com/blog/images/mern-stack.png)
 
 <h1 align="center">Hi 👋, I'm Kajal Pandey 💻!</h1>
 <h3 align="center">A self-motivated, hard-working and ambitious Web Developer with proficiency in JavaScript, Node.js, Express.js, MongoDB, Mongoose, HTML and CSS. Problem-solving mindset and the ability to perform well in collaboration</h3>
