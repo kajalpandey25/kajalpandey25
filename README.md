@@ -1,4 +1,4 @@
-![logo](https://github.com/kajalpandey25/kajalpandey25/blog/main/Github%20Banner.png)
+![logo](https://github.com/kajalpandey25/kajalpandey25/blob/main/Github%20Banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Kajal Pandey</h1>
