@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kajalkp596@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13UoWa4hArORkCkbFycq4iorXNWvnk19o/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KiPJYJbY8-stbyGCrBs_AwNjJVV6yutU/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny😅**
 
