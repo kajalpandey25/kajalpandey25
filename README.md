@@ -1,4 +1,4 @@
-![logo](https://github.com/kajalpandey25/kajalpandey25/blob/main/Github%20Banner.png)
+<img src="https://github.com/kajalpandey25/kajalpandey25/raw/main/Github%20Banner.png" alt="logo" width="1000" height="400">
 
 
 <h1 align="center">Hi 👋, I'm Kajal Pandey</h1>
