@@ -39,4 +39,9 @@
 
 
 
+  <p align="center">Enjoy your stay!</p>
+
+
+
+
 
