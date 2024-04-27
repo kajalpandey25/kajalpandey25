@@ -34,12 +34,12 @@
 <h2 align="center">
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
- <!----- Contribution Stats -NIKHIL  ------>
+ <!----- contribution  ------>
 
 <p align="center">
   <img src="https://github.com/kajalpandey25/kajalpandey25/blob/main/my-git.png" alt="snake"></center>
 </p>
- <!----- Contribution Stats - NIKHIL  ------>
+ <!----- Contribution  ------>
 
 <h2 align="center">
   My GitHub Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
