@@ -54,7 +54,7 @@
 
 
 
-  <p align="center">Enjoy your stay!</p>
+  <p align="center">Enjoy Your Stay!</p>
 
 
 
