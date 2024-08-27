@@ -1,6 +1,4 @@
 <img src="https://github.com/kajalpandey25/kajalpandey25/raw/main/Github%20Banner.png" alt="logo" width="1000" height="400">
-
-
 <h1 align="center">Hi 👋, I'm Kajal Pandey</h1>
 <h3 align="center">A self-motivated, hard-working, and ambitious Web Developer with proficiency in JavaScript, Node.js, Express.js, MongoDB, Mongoose, HTML, and CSS. Problem-solving mindset and the ability to perform well in collaboration</h3>
 
