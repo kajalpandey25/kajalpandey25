@@ -2,21 +2,24 @@
 <h1 align="center">Hi 👋, I'm Kajal Pandey</h1>
 <h3 align="center">A self-motivated, hard-working, and ambitious Web Developer with proficiency in JavaScript, Node.js, Express.js, MongoDB, Mongoose, HTML, and CSS. Problem-solving mindset and the ability to perform well in collaboration</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajalpandey25&label=Profile%20views&color=0e75b6&style=flat" alt="kajalpandey25" /> </p>
 
-- 🌱 I’m currently learning **MongoDB, Express.js, React.js, Node.js, Aspiring Full-stack Web Developer**
+<h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50">&nbsp;About me ....</h3>
 
-- 👨‍💻 All of my projects are available at [https://kajalpandey25.netlify.app/](https://kajalpandey25.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS , JavaScript, MongoDB , NodeJS, Express**
 
-- 📫 How to reach me **kajalkp596@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1KiPJYJbY8-stbyGCrBs_AwNjJVV6yutU/view?usp=sharing)]([https://drive.google.com/file/d/1KiPJYJbY8-stbyGCrBs_AwNjJVV6yutU/view?usp=sharing))
+<ul>
+<li> 🌱 <b>I’m currently learning</b> : <code>DSA</code>, <code>And</code>, <code>Mern-Stack, Blockchain</code></li>
+<li> 💬 <b>Ask me about</b>: <code>Problem Solving</code>, <code>Web Development</code>, <code>Git/Github</code>,<code>JavaScript/Node.js</code>, <code>MySQL</code> </</li>
+<li> 📫 <b>How to reach me</b> : <code><a href=" https://www.linkedin.com/in/kajal-pandey-08b312260/">LinkedIn</a></code>, <code><a href="https://x.com/kajalpande83437">Twitter</a></code>, <code><a href="mailto:kajalkp596@gmail.com">Email</a></code>, <code><a href="https://kajalpandey25.netlify.app/">Portfolio</a></code>, <code><a href="https://leetcode.com/u/kajalkp596/">LEETCODE</a></code></li>
+<li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://kajalpandey25.netlify.app/">Kajal Pandey</a></code></li>
+<li> 😄 <b>Pronouns</b>: ⚡**Code Enthusiast [].forEach.call(document.querySelectorAll(''), function(a) { a.style.color = "#"+(~~(Math.random()*(1<<24))).toString(16); })** ⚡
 
-- ⚡ Fun fact **I am funny😅**
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
