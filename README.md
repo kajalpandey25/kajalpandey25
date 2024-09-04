@@ -15,7 +15,7 @@
 <ul>
 <li> 🌱 <b>I’m currently learning</b> : <code>DSA</code>, <code>And</code>, <code>Mern-Stack, Blockchain</code></li>
 <li> 💬 <b>Ask me about</b>: <code>Problem Solving</code>, <code>Web Development</code>, <code>Git/Github</code>,<code>JavaScript/Node.js</code>, <code>MySQL</code> </</li>
-<li> 📫 <b>How to reach me</b> : <code><a href=" https://www.linkedin.com/in/kajal-pandey-08b312260/">LinkedIn</a></code>, <code><a href="https://x.com/kajalpande83437">Twitter</a></code>, <code><a href="mailto:kajalkp596@gmail.com">Email</a></code>, <code><a href="https://kajalpandey25.netlify.app/">Portfolio</a></code>, <code><a href="https://leetcode.com/u/kajalkp596/">LEETCODE</a></code></li>
+<li> 📫 <b>How to reach me</b> : <code><a href="https://www.linkedin.com/in/kajal-pandey-08b312260/">LinkedIn</a></code>, <code><a href="https://x.com/kajalpande83437">Twitter</a></code>, <code><a href="mailto:kajalkp596@gmail.com">Email</a></code>, <code><a href="https://kajalpandey25.netlify.app/">Portfolio</a></code>, <code><a href="https://leetcode.com/u/kajalkp596/">LEETCODE</a></code></li>
 <li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://kajalpandey25.netlify.app/">Kajal Pandey</a></code></li>
 <li> 😄 <b>Pronouns</b>: ⚡**Code Enthusiast [].forEach.call(document.querySelectorAll(''), function(a) { a.style.color = "#"+(~~(Math.random()*(1<<24))).toString(16); })** ⚡
 
