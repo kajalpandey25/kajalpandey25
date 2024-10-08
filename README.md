@@ -1,18 +1,18 @@
 <img src="https://github.com/kajalpandey25/kajalpandey25/raw/main/Github%20Banner.png" alt="logo" width="1000" height="400">
 <h1 align="center">Hi 👋, I'm Kajal Pandey</h1>
 <h3 align="center">A self-motivated, hard-working, and ambitious Web Developer with proficiency in JavaScript, Node.js, Express.js, MongoDB, Mongoose, HTML, and CSS. Problem-solving mindset and the ability to perform well in collaboration</h3>
+
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=👨🏻‍🎓+Computer+Science+Student+👨🏻‍💻;Full-Stack+Web+Developer+👨‍💻;DSA+Enthusiast+🤓;👨🏻‍💻+Loves+Coding+🖥️;😇+Always+learning+new+things&center=true&width=500&height=50&color=f70089&vCenter=true&width=600&height=100"></a>
 </p>
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
- <p align="center">
+ <p align="top">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" style="width: 220px; height: 220px; border-radius: 20px; object-fit: cover;/>
  </p>
 </div>
 
-
+   
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajalpandey25&label=Profile%20views&color=0e75b6&style=flat" alt="kajalpandey25" /> </p>
 
 <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50">&nbsp;About me ....</h3>
