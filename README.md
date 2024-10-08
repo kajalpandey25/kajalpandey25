@@ -6,7 +6,7 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=👨🏻‍🎓+Computer+Science+Student+👨🏻‍💻;Full-Stack+Web+Developer+👨‍💻;DSA+Enthusiast+🤓;👨🏻‍💻+Loves+Coding+🖥️;😇+Always+learning+new+things&center=true&width=500&height=50&color=f70089&vCenter=true&width=600&height=100"></a>
 </p>
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
- <p align="top">
+ <p align="center">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" style="width: 220px; height: 220px; border-radius: 20px; object-fit: cover;/>
  </p>
 </div>
